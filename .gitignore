@@ -1,0 +1,4 @@
+# ignore DS_store files
+.DS_Store
+# ignore output folder
+output/
