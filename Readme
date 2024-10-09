@@ -1,13 +1,5 @@
 # README
 
-
-### Team Members
-```
-Name: Yuning Huang   stu_id: A0298085M
-Name: Zongyao Wang   stu_id: A0296966B
-Name: Tianyi Chen    stu_id: A0297157N
-```
-
 ## Project Overview
 
 This project aims to predict the median house value using Kernel Ridge Regression (KRR). The implementation is parallelized using the Message Passing Interface (MPI) to expedite the computation.
